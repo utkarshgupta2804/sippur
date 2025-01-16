@@ -7,7 +7,7 @@ import sippur from "./images/sippur.png"
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'PureFlow Technologies',
+  title: 'Sippur',
   description: 'Revolutionary water purification technology for premium hydration',
 }
 

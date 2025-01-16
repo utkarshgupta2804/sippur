@@ -18,7 +18,7 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 text-center">About Us</h2>
             <p className="text-base sm:text-lg text-center max-w-2xl mx-auto">
-              PureFlow Technologies is revolutionizing hydration with our premium lifestyle water bottle.
+              Sippur is revolutionizing hydration with our premium lifestyle water bottle.
               Our built-in, multi-material filter utilizes the latest innovative materials for optimal water quality,
               ensuring you have access to clean, safe water wherever you go.
             </p>
